@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_1">Правда ли,  что утёнок считает мамой того, кого увидел первым после рождения?</string>
+    <string name="question_2">Правда ли, что у осьминогов два сердца?</string>
+    <string name="question_3">Правда ли, что черепахи плачут?</string>
+    <string name="question_4">Правда ли, что самые первые машины были двухколесными?</string>
+    <string name="question_5">Правда ли, что в мире есть растения, которые могут расти со скоростью 1 метр в день?</string>
+    <string name="answer_false">Нет</string>
+    <string name="answer_true">Да</string>
+    <string name="end_questions">GeoQuiz</string>
+    <string name="button_text_next">Next</string>
+    <string name="correct_toast">Правильно</string>
+    <string name="incorrect_toast">Не правильно</string>
+</resources>
